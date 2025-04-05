@@ -41,8 +41,7 @@
 ---
 
 ## **🖥️ Dashboard Preview**  
-![Power BI Sales Dashboard](![Screenshot1](https://github.com/user-attachments/assets/91d7a68b-7978-46b5-9689-f046c3bf0250)
-)  
+![Power BI Sales Dashboard](![Screenshot1](https://github.com/user-attachments/assets/91d7a68b-7978-46b5-9689-f046c3bf0250)) 
 **🌟 Happy Analyzing!**  
 
 --- 
