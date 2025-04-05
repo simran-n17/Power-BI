@@ -30,18 +30,11 @@
 
 ---
 
-## **📸 How to Add Your Screenshot**  
-1. Take a screenshot of your Power BI dashboard (use `Ctrl + Shift + S` in Power BI Desktop).  
-2. Save it as `sales_dashboard.png` in a `/Screenshots` folder.  
-3. Update the image path in the markdown above:  
-   ```markdown
-   ![Power BI Sales Dashboard](Screenshots/sales_dashboard.png)
-   ```
-
 ---
 
 ## **🖥️ Dashboard Preview**  
-![Power BI Sales Dashboard](![Screenshot1](https://github.com/user-attachments/assets/91d7a68b-7978-46b5-9689-f046c3bf0250)) 
+![Screenshot1](https://github.com/user-attachments/assets/91d7a68b-7978-46b5-9689-f046c3bf0250)
+
 **🌟 Happy Analyzing!**  
 
 --- 
